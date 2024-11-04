@@ -6,6 +6,10 @@ export default {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      'sans': ['Nunito Sans', 'sans-serif']
+     
+    }
   },
   plugins: [],
 }
